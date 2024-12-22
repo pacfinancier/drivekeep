@@ -1,0 +1,1 @@
+export const SIGNUP_STEPS = [] as const;
